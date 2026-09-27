@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Today</string>
+    <string name="widget_today_name">Today</string>
+    <string name="widget_today_desc">Displays today\'s date with done and undone counts.</string>
+</resources>
