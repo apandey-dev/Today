@@ -16,12 +16,29 @@
 
 ---
 
-## 📱 Screenshots
+## 📱 Visual Walkthrough & Screenshots
 
+### 1. Daily Task Management
 <div align="center">
-  <img src="1.png" width="30%" alt="Today Screen" />
-  <img src="2.png" width="30%" alt="Add Task Screen" />
-  <img src="3.png" width="30%" alt="Log & Widget View" />
+  <img src="public/empty_state.jpg" width="31%" alt="Empty State" />
+  <img src="public/todo_tile.jpg" width="31%" alt="Active Tasks" />
+  <img src="public/completed_task.png" width="31%" alt="Completed Tasks" />
+  <p><em>Empty State • Active Daily Tasks • Completed Tasks with Clean Dimming</em></p>
+</div>
+
+### 2. Creating & Scheduling Tasks
+<div align="center">
+  <img src="public/new_task_page.jpg" width="45%" alt="New Task Screen" />
+  <img src="public/new_task_filled.jpg" width="45%" alt="New Task with Schedule & Notes" />
+  <p><em>Minimal Input Screen • Start & End Time Picker with Notes & Slide-to-Add</em></p>
+</div>
+
+### 3. Gestures & Action Sheets
+<div align="center">
+  <img src="public/quick_action_1.png" width="31%" alt="Swipe to Complete" />
+  <img src="public/task_detail_sheet.png" width="31%" alt="Task Details Sheet" />
+  <img src="public/actions_sheet.jpg" width="31%" alt="Actions & Settings Sheet" />
+  <p><em>Quick Swipe Action • Task Details & Slide-to-Complete • Actions Menu with Theme Switcher</em></p>
 </div>
 
 ---

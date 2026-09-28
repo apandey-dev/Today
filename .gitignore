@@ -10,3 +10,6 @@ app/build/
 .cxx
 *.apk
 *.aab
+*.ini
+desktop.ini
+Thumbs.db
