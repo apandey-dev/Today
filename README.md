@@ -7,7 +7,7 @@
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Material 3](https://img.shields.io/badge/Design-Material%203-7C4DFF?style=flat)](https://m3.material.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Build APK](https://github.com/arpitpandey-dev/Today/actions/workflows/build-apk.yml/badge.svg)](https://github.com/arpitpandey-dev/Today/actions/workflows/build-apk.yml)
+[![Build APK](https://github.com/apandey-dev/Today/actions/workflows/build-apk.yml/badge.svg)](https://github.com/apandey-dev/Today/actions/workflows/build-apk.yml)
 
 **An ultra-minimalist, distraction-free daily task planner for Android.**  
 *Dynamic calendar launcher icon • Live minimalist widget • Plain-text persistence • Zero fluff.*
@@ -93,7 +93,7 @@ Today/
 ### Clone & Build
 ```bash
 # 1. Clone repository
-git clone https://github.com/arpitpandey-dev/Today.git
+git clone https://github.com/apandey-dev/Today.git
 cd Today
 
 # 2. Build Debug APK using Gradle wrapper
@@ -114,7 +114,7 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## 📦 Releases & Installation
 
-You can download the pre-compiled APK directly from the [Releases](https://github.com/arpitpandey-dev/Today/releases) tab.
+You can download the pre-compiled APK directly from the [Releases](https://github.com/apandey-dev/Today/releases) tab.
 
 1. Download `app-debug.apk` onto your Android device.
 2. Open the file and follow the on-screen prompt to install (enable *"Install from Unknown Sources"* if prompted).
