@@ -30,7 +30,11 @@
 
 - **🗓️ Dynamic Launcher Icon (Days 1–31)**: The app icon on your home screen automatically switches every day to match the current day of the month without restarting your device.
 - **🔲 Minimalist 1:1 Home Screen Widget**: Clean live widget displaying the current date, completed tasks count (`done`), and pending tasks count (`undone`).
-- **📝 Human-Readable Plain Text Storage**: All tasks are organized and mirrored in a structured `todos.txt` file (`=== yyyy-MM-dd ===`, `[x] Time - Task > Note`), with a built-in log viewer and one-tap clipboard copying.
+- **📝 Easy-to-Read Plain Text Storage (`todos.txt`)**: All your tasks are stored locally in a simple, human-readable text format—no complex or hidden databases. Anyone can open, read, and understand the log at a glance:
+  - **Dates**: Separated clearly by date headers (e.g. `=== 2026-09-28 ===`)
+  - **Checkboxes**: `[x]` for completed tasks, `[ ]` for pending tasks
+  - **Timing & Notes**: Optional schedules (`09:00 AM - 11:30 AM - Task Name`) and attached notes (`> Note text`)
+  - **Built-in Log Viewer**: In-app viewer with one-tap clipboard export.
 - **⚡ Fluid Gestures & Haptics**:
   - **Swipe Right**: Mark task as `done` with satisfying haptic feedback.
   - **Swipe Left**: Mark task as `undone`.
